@@ -1,0 +1,21 @@
+# Виртуальное окружение
+/.venv
+/wheels
+
+# Переменные окружения
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+/staticfiles
+
+# IDE
+/.idea
+/.vscode
+
+/static
